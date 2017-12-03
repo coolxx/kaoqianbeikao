@@ -101,7 +101,7 @@ header p{
     float: left;
     color: #ffffff;
     margin-top:0.65rem;
-    margin-left:0.2rem;
+    margin-left:0.21rem;
 }
 .time p .time-num{
     margin-left:0.55rem;
@@ -218,6 +218,9 @@ header p{
     text-align: center;
     top:17.65rem;
     z-index:2;
+}
+.m1-cont2-huan img{
+    width: 12.125rem
 }
 .m1-cont2-bottom{
     position: absolute;
